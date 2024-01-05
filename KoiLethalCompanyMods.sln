@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableSpeaker", "DisableSpeaker\DisableSpeaker.csproj", "{080D5292-7098-4579-8A08-F6FEDDBB53CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnlimitedStamina", "UnlimitedStamina\UnlimitedStamina.csproj", "{BC0BB2BF-AA07-4B2F-94D2-CFAEA43CDFE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{080D5292-7098-4579-8A08-F6FEDDBB53CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{080D5292-7098-4579-8A08-F6FEDDBB53CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{080D5292-7098-4579-8A08-F6FEDDBB53CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0BB2BF-AA07-4B2F-94D2-CFAEA43CDFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0BB2BF-AA07-4B2F-94D2-CFAEA43CDFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0BB2BF-AA07-4B2F-94D2-CFAEA43CDFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0BB2BF-AA07-4B2F-94D2-CFAEA43CDFE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
