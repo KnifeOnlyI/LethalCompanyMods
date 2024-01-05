@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MyFirstMod")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("DisableSpeaker")]
+[assembly: AssemblyDescription("A mod for Lethal Company that disables the speaker in the ship.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MyFirstMod")]
+[assembly: AssemblyProduct("DisableSpeaker")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("E417233C-044D-404E-A836-C50BC0E239D9")]
+[assembly: Guid("080D5292-7098-4579-8A08-F6FEDDBB53CF")]
 
 // Version information for an assembly consists of the following four values:
 //
