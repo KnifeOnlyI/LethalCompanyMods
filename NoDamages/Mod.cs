@@ -2,7 +2,7 @@
 using BepInEx.Logging;
 using HarmonyLib;
 
-namespace Koi.LethalCompany.UnlimitedBattery
+namespace Koi.LethalCompany.NoDamages
 {
     /// <summary>
     /// The mod entry point.
